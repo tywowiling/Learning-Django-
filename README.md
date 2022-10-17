@@ -2,8 +2,8 @@
 
 ![Programming Language](https://img.shields.io/badge/Programming%20Language-Python-red)
 ![Framework](https://img.shields.io/badge/Framework-Django%20Framework-red)
-![Database](https://img.shields.io/badge/Database-MySQL-Yellow)
-![Database](https://img.shields.io/badge/Database-PostgreSQL-Yellow)
+![Database](https://img.shields.io/badge/Database-MySQL-yellow)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-yellow)
 ![Code Editor](https://img.shields.io/badge/Code%20Editor-Visual%20Studio%20Code-blue)
 ![Original Date](https://img.shields.io/badge/Original%20Date-2021-important)
 
